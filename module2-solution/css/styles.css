@@ -14,7 +14,6 @@ h1 {
 p {
 	padding: 10px;
 	margin: 0;
-  overflow: auto;
 }
 
 .container {
@@ -30,11 +29,11 @@ section {
 	border:	1px solid black;
 	background-color: #fffdd0;
 	width: 100%;
-	height: 10em;
+	height: 12em;
 	font-family: Helvetica;
 	color: black;
 	position: relative;
-
+  overflow: auto;
 }
 
 #Chicken {
