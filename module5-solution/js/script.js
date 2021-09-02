@@ -319,7 +319,7 @@ function insertItemPrice(html,
   }
 
   priceValue = "$" + priceValue.toFixed(2);
-  html = insertProperty(html, pricePropName, priceValue);
+  html = insertPropertgit y(html, pricePropName, priceValue);
   return html;
 }
 
